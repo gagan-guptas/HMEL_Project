@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMEL_Carrer", "HMEL_Carrer\HMEL_Carrer.csproj", "{DF9A15B7-E4E1-45A8-B3FC-80CF449036DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF9A15B7-E4E1-45A8-B3FC-80CF449036DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9A15B7-E4E1-45A8-B3FC-80CF449036DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9A15B7-E4E1-45A8-B3FC-80CF449036DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9A15B7-E4E1-45A8-B3FC-80CF449036DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F415DA-E2F2-4BF1-973B-15BA0E109FC4}
+	EndGlobalSection
+EndGlobal
